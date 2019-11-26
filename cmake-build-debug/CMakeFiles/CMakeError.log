@@ -1,0 +1,81 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGW/bin/mingw32-make.exe cmTC_f9915/fast && D:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_f9915.dir\build.make CMakeFiles/cmTC_f9915.dir/build
+mingw32-make.exe[1]: Entering directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f9915.dir/CheckIncludeFile.c.obj
+D:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_f9915.dir\CheckIncludeFile.c.obj   -c "F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: pthread.h: No such file or directory
+ #include <pthread.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles\cmTC_f9915.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_f9915.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_f9915.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_f9915/fast' failed
+mingw32-make.exe: *** [cmTC_f9915/fast] Error 2
+
+
+
+Determining if the include file dinput.h exists failed with the following output:
+Change Dir: F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGW/bin/mingw32-make.exe cmTC_8319e/fast && D:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_8319e.dir\build.make CMakeFiles/cmTC_8319e.dir/build
+mingw32-make.exe[1]: Entering directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8319e.dir/CheckIncludeFile.c.obj
+D:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_8319e.dir\CheckIncludeFile.c.obj   -c "F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: dinput.h: No such file or directory
+ #include <dinput.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles\cmTC_8319e.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_8319e.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_8319e.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_8319e/fast' failed
+mingw32-make.exe: *** [cmTC_8319e/fast] Error 2
+
+
+
+Determining if the include file xinput.h exists failed with the following output:
+Change Dir: F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGW/bin/mingw32-make.exe cmTC_07f8f/fast && D:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_07f8f.dir\build.make CMakeFiles/cmTC_07f8f.dir/build
+mingw32-make.exe[1]: Entering directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_07f8f.dir/CheckIncludeFile.c.obj
+D:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_07f8f.dir\CheckIncludeFile.c.obj   -c "F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: xinput.h: No such file or directory
+ #include <xinput.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles\cmTC_07f8f.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_07f8f.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_07f8f.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_07f8f/fast' failed
+mingw32-make.exe: *** [cmTC_07f8f/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test _GLFW_HAS_64ASLR failed with the following output:
+Change Dir: F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGW/bin/mingw32-make.exe cmTC_3e00d/fast && D:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_3e00d.dir\build.make CMakeFiles/cmTC_3e00d.dir/build
+mingw32-make.exe[1]: Entering directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3e00d.dir/src.c.obj
+D:\MinGW\bin\gcc.exe   -D_GLFW_HAS_64ASLR -Wl,--high-entropy-va   -o CMakeFiles\cmTC_3e00d.dir\src.c.obj   -c "F:\453\CPSC453\Asg1 - Part2\cmake-build-debug\CMakeFiles\CMakeTmp\src.c"
+Linking C executable cmTC_3e00d.exe
+F:\CLion\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_3e00d.dir\link.txt --verbose=1
+F:\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\cmTC_3e00d.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_3e00d.dir/objects.a @CMakeFiles\cmTC_3e00d.dir\objects1.rsp
+D:\MinGW\bin\gcc.exe  -D_GLFW_HAS_64ASLR -Wl,--high-entropy-va    -Wl,--whole-archive CMakeFiles\cmTC_3e00d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_3e00d.exe -Wl,--out-implib,libcmTC_3e00d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_3e00d.dir\linklibs.rsp
+d:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: unrecognized option '--high-entropy-va'
+d:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: use the --help option for usage information
+collect2.exe: error: ld returned 1 exit status
+CMakeFiles\cmTC_3e00d.dir\build.make:87: recipe for target 'cmTC_3e00d.exe' failed
+mingw32-make.exe[1]: *** [cmTC_3e00d.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_3e00d/fast' failed
+mingw32-make.exe: *** [cmTC_3e00d/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }

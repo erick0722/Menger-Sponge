@@ -1,0 +1,3 @@
+F:\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Sierpinski.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\Sierpinski.dir/objects.a @CMakeFiles\Sierpinski.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Sierpinski.dir/objects.a -Wl,--no-whole-archive  -o Sierpinski.exe -Wl,--out-implib,libSierpinski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sierpinski.dir\linklibs.rsp

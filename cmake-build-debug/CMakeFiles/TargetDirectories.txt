@@ -1,0 +1,9 @@
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/glad.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/Sierpinski.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/external/glfw/CMakeFiles/edit_cache.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/external/glfw/CMakeFiles/rebuild_cache.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/external/glfw/src/CMakeFiles/rebuild_cache.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/external/glfw/src/CMakeFiles/glfw.dir
+F:/453/CPSC453/Asg1 - Part2/cmake-build-debug/external/glfw/src/CMakeFiles/edit_cache.dir
